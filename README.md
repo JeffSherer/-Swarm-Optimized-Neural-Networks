@@ -1,2 +1,2 @@
 # -Swarm-Optimized-Neural-Networks
-Optimizes neural networks using Particle Swarm Optimization (PSO) to enhance classification accuracy. Implements a custom feedforward neural network, leveraging PSO for weight tuning. Includes adaptive learning, informant strategies, early stopping, and performance evaluation with confusion matrices and ROC curves.
+A biologically inspired computation approach for optimizing neural networks using Particle Swarm Optimization (PSO). A banknote fraud dataset is used to evaluate classification accuracy. Swarm intelligence fine-tunes network weights, incorporating adaptive learning, informant strategies, early stopping, and performance evaluation with confusion matrices and ROC curves.
